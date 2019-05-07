@@ -8,7 +8,7 @@ import (
 
 // betfair api endpoints
 const (
-	login_url       = "https://identitysso-api.betfair.com/api/"
+	login_url       = "https://identitysso-cert.betfair.com/api/certlogin"
 	identity_url    = "https://identitysso.betfair.com/api/"
 	api_betting_url = "https://api.betfair.com/exchange/betting/rest/v1.0/"
 	api_account_url = "https://api.betfair.com/exchange/account/rest/v1.0/"

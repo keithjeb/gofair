@@ -3,7 +3,7 @@ package gofair
 import (
 	"bufio"
 	"encoding/json"
-	"gofair/streaming"
+	"github.com/keithjeb/gofair/streaming"
 	"log"
 	"os"
 )
